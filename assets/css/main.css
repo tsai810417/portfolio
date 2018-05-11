@@ -3125,3 +3125,23 @@
 			}
 
 	}
+
+	.project-links {
+		display: block;
+		text-align: right;
+		margin: 2px;
+	}
+
+	.project-links a {
+		margin-left: 10px;
+	}
+
+	h3 {
+		margin: 0px;
+	}
+
+	.row svg {
+		width: 150px;
+		height: auto;
+		margin: 15px;
+	}
